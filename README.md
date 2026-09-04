@@ -1,2 +1,8 @@
-# 2026-27_sec-21-64_PythonProgrammingCourse
-this repository contains python programming 
+# Python Programming Course
+
+- Institution: NRIU
+- Academic Year: 2026-27
+- Course: Python Programming
+- Section: Sec-21
+- Serial Number: 64
+- Student Name: yalamanchili rishitha chowdary
